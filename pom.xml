@@ -136,9 +136,9 @@
       <version>${fiks-io-commons.version}</version>
     </dependency>
     <dependency>
-      <groupId>no.ks.fiks</groupId>
-      <artifactId>fiks-io-asice-handler</artifactId>
-      <version>${fiks-io-asice-handler.version}</version>
+      <groupId>no.ssb.barn</groupId>
+      <artifactId>fiks-io-asice-handler-2</artifactId>
+      <version>master-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>no.ks.fiks</groupId>
@@ -379,7 +379,7 @@
         </distributionManagement>
       </profile>
   </profiles>
-  
+
   <repositories>
     <repository>
       <id>artifact-registry</id>
